@@ -44,9 +44,9 @@ begin
 end $$
 DELIMITER ;
 
-call addStudent('Lavithesh','M',98958668,'lavithesh@gmail.com');
+call addStudent('Lavithesh','M',9484848489,'xyc@gmail.com');
 
-insert into student(student_name,student_gender,student_contact,student_email) values('Biya','F',703443119,'biyasreeni678@gmail.com');
+insert into student(student_name,student_gender,student_contact,student_email) values('Aneesh','F',70848888847,'aneesh5@gmail.com');
 
 
 insert into subjects(subject_name) values('Math'),('English'),('Hindi');
